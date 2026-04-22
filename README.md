@@ -17,9 +17,9 @@
 </div>
 
 ### 👩‍💻 About Me
-- 🔭 **Master's Thesis:** Developing a comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU).
-- 🏆 **Academic Excellence:** Ranked **1st University-Wide** at Taif University (GPA 4.00/4.00).
-- 🎨 **Creative UX:** Award-winning designer blending technical logic with aesthetic precision.
+* 🔭 **Master's Thesis:** Developing a comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU).
+* 🏆 **Academic Excellence:** Ranked **1st University-Wide** at Taif University (GPA 4.00/4.00).
+* 🎨 **Creative UX:** Award-winning designer blending technical logic with aesthetic precision.
 
 ### 🛠️ Technical Ecosystem
 <div align="left">
@@ -28,8 +28,23 @@
 
 <br/>
 
+### 📂 Featured Research & Projects
+* 🧠 **Sleep Stage Classification:** Comparing ML vs DL (BiLSTM) for health-tech solutions.
+* 🖼️ **Deep Learning for Vision:** Fine-tuned ANN models for image and text processing.
+* 🔐 **WATHEEQ Platform:** Secure authentication system development & leadership.
+
+---
+
 ### 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=vibrant&rank_icon=github&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasaad11&layout=compact&theme=vibrant&border_radius=10" height="180" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=vibrant&rank_icon=github&border_radius=10" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasaad11&layout=compact&theme=vibrant&border_radius=10" height="170" />
+      </td>
+    </tr>
+  </table>
 </div>
