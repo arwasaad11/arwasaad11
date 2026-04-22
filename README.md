@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Arwa%20Al-Sawat&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arwa%20Al-Sawat&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
   ## 🚀 AI Researcher | UI/UX Designer | MSc Student
   
   **"The best way to predict the future is to invent it."** — *Alan Kay*
