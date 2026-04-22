@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-  <h1>Arwa S. Al-Sawat</h1>
-  <strong>AI Researcher | Award-Winning UI/UX Designer</strong>
-  <br /><br />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=919bde&height=150&section=header" width="100%" />
   **"The best way to predict the future is to invent it."** — *Alan Kay*
 
   <br />
