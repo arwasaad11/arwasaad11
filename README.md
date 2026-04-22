@@ -13,23 +13,28 @@
   
   ---
 </div>
-
 ### 👩‍💻 About Me
-- 🎓 **Academic Excellence:** Ranked **1st University-Wide** during my Bachelor's with a **4.00/4.00 GPA**.
-- 🔭 **Master's Thesis:** Comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU).
-- 🎨 **Creative UX:** Award-winning designer blending technical logic with aesthetic precision.
+* 🎓 **Academic Excellence:** Ranked **1st University-Wide** at Taif University with a **4.00/4.00 GPA** (First Honors).
+* 🎨 **UX Mastery:** 3rd Place Winner in *Portfolio Masters* (Ironhack & SDA) — specializing in bridging complex AI logic with intuitive design.
+* 👩‍🏫 **Professional Experience:** 8+ years in education, currently pivoting into high-level Computer Science research.
+
+### 📚 Master's Thesis & Current Focus
+* 🔬 **Research Title:** Comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU, and more).
+* 🧪 **The Goal:** Expanding from 4 to 10 specialized hybrid models to achieve state-of-the-art performance in data classification.
+* 🧠 **Deep Learning Focus:** Specialized in **Sleep Stage Classification** using BiLSTM architectures and advanced feature engineering.
+* 🖼️ **Computer Vision:** Fine-tuning Artificial Neural Networks for medical and expressive visual analysis.
 
 ### 🛠️ Technical Ecosystem
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,html,figma,ai,ps,cisco&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,figma,ai,ps,html,cisco&perline=10" />
 </div>
 
-<br/>
+---
 
-### 📂 Featured Research & Projects
-* 🧠 **Sleep Stage Classification:** Comparing ML vs DL (BiLSTM) for health-tech solutions.
-* 🖼️ **Deep Learning for Vision:** Fine-tuned ANN models for image and text processing.
-* 🔐 **WATHEEQ Platform:** Secure authentication system development & leadership.
+### 📂 Featured Projects
+* 🔐 **WATHEEQ Platform:** Led the design and technical development for a secure authentication system.
+* 📊 **Hybrid Benchmark:** Building a 30+ page comprehensive literature review on neural network evolution.
+* 🎨 **Digital Artistry:** Integrating oil painting aesthetics into expressive digital portraiture.
 
 ---
 
@@ -37,12 +42,18 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=nord&rank_icon=github&border_radius=10&title_color=919bde&text_color=919bde&icon_color=ffca28&hide_border=true" height="170" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=nord&border_radius=10&title_color=919bde&text_color=555&icon_color=919bde&hide_border=true" height="175" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasaad11&layout=compact&theme=nord&border_radius=10&title_color=919bde&text_color=919bde&hide_border=true" height="170" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasaad11&layout=compact&theme=nord&border_radius=10&title_color=919bde&text_color=555&hide_border=true" height="175" />
       </td>
     </tr>
   </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Always%20learning,%20always%20creating.&text_color=919bde" alt="Quote" />
 </div>
