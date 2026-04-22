@@ -2,25 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=919bde&height=180&section=header&text=Arwa%20S.%20Al-Sawat&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
   <br />
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/arwa-alsawat-258837286/)
 
-    <strong>"The best way to predict the future is to invent it."</strong> — <i>Alan Kay</i>
-  </p>
-  <br />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/arwa-alsawat-258837286/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/ar__wa">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/arwaalsawat">
-    <img src="https://img.shields.io/badge/BEHANCE-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="mailto:Arwasaad91@hotmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
 ---
 
