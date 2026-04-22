@@ -13,7 +13,9 @@
   <a href="mailto:Arwasaad91@hotmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+<a href="https://x.com/ar__wa">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <br />
 </div>
 
