@@ -1,40 +1,48 @@
-# Hi there! I'm Arwa Al-Sawat 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arwa%20Al-Sawat&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### 🎓 Master of Science in Computer Science Student | AI & UI/UX Enthusiast
-Ranked **1st University-Wide** during my Bachelor's at Taif University with a **4.00/4.00 GPA**. Currently specializing in Artificial Intelligence and Deep Learning.
+  ## 🚀 AI Researcher | UI/UX Designer | MSc Student
+  
+  **Ranked 1st University-Wide (4.00/4.00 GPA)** 🏆
+  
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arwa-alsawat)
+  [<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/arwaalsawat)
+  [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Arwasaad91@hotmail.com)
+
+  <br/>
+  
+  ### *“Merging Artificial Intelligence with Human-Centered Design”*
+  
+  ---
+</div>
+
+### 👩‍💻 About Me
+- 🔭 **Master's Thesis:** Comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU).
+- 🎨 **UX Excellence:** Award-winning designer focused on accessible and intuitive interfaces.
+- ⚡ **Fun Fact:** First Honors graduate with a passion for realistic oil painting.
+
+### 🛠️ Technical Ecosystem
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,html,figma,ai,ps,cisco&perline=10" />
+</div>
+
+<br/>
+
+### 📂 Featured Research & Projects
+- 🧠 **Sleep Stage Classification:** Comparing ML vs DL (BiLSTM) for health-tech solutions.
+- 🖼️ **Deep Learning for Vision:** Fine-tuned ANN models for image and text processing.
+- 🔐 **WATHEEQ Platform:** Secure authentication system development & leadership.
 
 ---
 
-### 🚀 About Me
-- 🔭 **Current Focus:** Researching and implementing **10 Hybrid Neural Network Models** (CNN, RNN, GRU) for my Master's thesis.
-- 🎨 **Creative Side:** Award-winning **UI/UX Designer** (3rd Place in Portfolio Masters Competition by Ironhack & SDA).
-- 🏆 **Academic Excellence:** First Honors Graduate and Top of the College of Computers & IT.
-- 💡 **Goal:** Merging high-level AI research with user-centered design to create impactful digital solutions.
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=vibrant&rank_icon=github&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasaad11&layout=compact&theme=vibrant&border_radius=10" height="180" />
+</div>
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-| Category | Skills |
-| :--- | :--- |
-| **Programming** | Python, C++, SQL, HTML |
-| **AI & Data** | Deep Learning, Neural Networks (CNN, RNN, GRU), Data Analytics |
-| **Design/UX** | Figma, Wireframing, Prototyping, Interaction Design |
-| **Networking** | Cisco Networking Academy, Network Security, CCNA |
-
----
-
-### 📂 Key Academic Projects
-* **Deep Learning for NLP & Vision:** Fine-tuned ANN models for classification and NLP tasks.
-* **Sleep Stage Classification:** Comparative analysis using SVM, k-NN vs. BiLSTM models.
-* **WATHEEQ App:** Team Leader for a secure authentication and data protection platform.
-
----
-
-### 📊 My GitHub Stats
-![Arwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=dracula&rank_icon=github)
-
----
-
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/arwa-alsawat) • [Email](mailto:Arwasaad91@hotmail.com) • [Behance](https://www.behance.net/arwaalsawat)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vibrant&quote=Always%20learning,%20always%20creating." alt="Quote" />
+</div>
