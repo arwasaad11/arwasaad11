@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Arwa S. Al-Sawat</h1>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=919bde&height=180&section=header&text=Arwa%20S.%20Al-Sawat&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
   <p align="center">
     <strong>"The best way to predict the future is to invent it."</strong> — <i>Alan Kay</i>
   </p>
