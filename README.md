@@ -20,17 +20,18 @@
 </div>
 
 ---
-
 ### 🚀 Quick Glance
-- 🔭 **Current Focus:** Comparative Study of **10 Hybrid Models** (CNN, RNN, GRU).
-- 🏆 **Top Achievement:** Ranked **1st University-Wide** @ Taif University (**GPA 4.00/4.00**).
-- 🎨 **Expertise:** Bridging **Artificial Intelligence** with **Intuitive Design**.
+- 🎓 **Academic Status:** **Master of Science in Computer Science** @ Taif University.
+- 🔬 **Current Research:** Comparative Study of **10 Hybrid Neural Network Models**.
+- 🏆 **Top Honor:** Ranked **1st University-Wide** during BSc at Taif University (**GPA 4.00/4.00**).
+- 🎨 **Expertise:** AI Researcher & Award-Winning UI/UX Designer.
 
 ---
 
 ### 👩‍💻 About Me
-I am a Computer Science researcher and an award-winning UI/UX designer. My academic journey is defined by excellence, graduating with **First Honors** and ranking first in my class. I specialize in the intersection of deep learning and human-centered design, aiming to make complex AI systems accessible and intuitive for all users.
+I am a **Master’s candidate in Computer Science at Taif University**, and an award-winning UI/UX designer. My academic path is defined by a commitment to excellence, having graduated as the **top student university-wide** with a perfect GPA. 
 
+Currently, I am focusing my research on the intersection of **Artificial Intelligence** and human-centered design. I aim to leverage my 8+ years of professional background to develop advanced Deep Learning architectures that are both technically sophisticated and intuitively accessible.
 ---
 
 ### 🛠️ Technical Ecosystem
