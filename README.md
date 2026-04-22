@@ -1,35 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arwa%20Al-Sawat&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Arwa%20Al-Sawat&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  ## 🚀 AI Researcher | UI/UX Designer | MSc Student
-  
-  **Ranked 1st University-Wide (4.00/4.00 GPA)** 🏆
-  
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arwa-alsawat)
-  [<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/arwaalsawat)
-  [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Arwasaad91@hotmail.com)
+  ### 🚀 AI Researcher | UI/UX Designer | MSc Student
+  **"The best way to predict the future is to invent it."** — *Alan Kay*
 
+  <br />
 
- **"The best way to predict the future is to invent it."** — *Alan Kay*
-  
-  ---
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwa-alsawat)
+  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/arwaalsawat)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Arwasaad91@hotmail.com)
+
+  <br />
 </div>
+
+---
+
 ### 👩‍💻 About Me
-* 🔭 **Master's Thesis:** Developing a comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU).
-* 🏆 **Academic Excellence:** Ranked **1st University-Wide** at Taif University (GPA 4.00/4.00).
-* 🎨 **Creative UX:** Award-winning designer blending technical logic with aesthetic precision.
+* 🎓 **Academic Excellence:** Ranked **1st University-Wide** at Taif University with a perfect **4.00/4.00 GPA**.
+* 🔭 **Master's Thesis:** Comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU).
+* 🎨 **UX Mastery:** 3rd Place Winner in *Portfolio Masters* (Ironhack & SDA) — blending logic with aesthetics.
+
+<br />
 
 ### 🛠️ Technical Ecosystem
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,html,figma,ai,ps,cisco&perline=10" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,figma,ai,ps,html,cisco&perline=10" />
 </div>
 
-<br/>
+<br />
 
 ### 📂 Featured Research & Projects
-* 🧠 **Sleep Stage Classification:** Comparing ML vs DL (BiLSTM) for health-tech solutions.
-* 🖼️ **Deep Learning for Vision:** Fine-tuned ANN models for image and text processing.
-* 🔐 **WATHEEQ Platform:** Secure authentication system development & leadership.
+* 🧠 **Sleep Stage Classification:** Leveraging BiLSTM and ML algorithms for health-tech innovation.
+* 🖼️ **Deep Learning for Vision:** Engineering fine-tuned ANN models for advanced image processing.
+* 🔐 **WATHEEQ Platform:** Leading technical development for secure authentication systems.
 
 ---
 
@@ -37,12 +40,18 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=vibrant&rank_icon=github&border_radius=10" height="170" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=arwasaad11&show_icons=true&theme=vibrant&rank_icon=github&border_radius=10" height="175" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasaad11&layout=compact&theme=vibrant&border_radius=10" height="170" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasaad11&layout=compact&theme=vibrant&border_radius=10" height="175" />
       </td>
     </tr>
   </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vibrant&quote=Always%20learning,%20always%20creating." alt="Quote" />
 </div>
