@@ -37,4 +37,4 @@ Ranked **1st University-Wide** during my Bachelor's at Taif University with a **
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/arwa-alsawat) • [Email](mailto:Arwasaad91@hotmail.com) • [Behance](https://www.behance.net/arwaalsawat)
+[LinkedIn](https://www.linkedin.com/in/arwa-alsawat-258837286/) • [Email](mailto:Arwasaad91@hotmail.com) • [Behance](https://www.behance.net/arwaalsawat)
