@@ -12,7 +12,7 @@
   <br/>
   
   ---
-</div>
+
 ### 👩‍💻 About Me
 * 🎓 **Academic Excellence:** Ranked **1st University-Wide** at Taif University with a **4.00/4.00 GPA** (First Honors).
 * 🎨 **UX Mastery:** 3rd Place Winner in *Portfolio Masters* (Ironhack & SDA) — specializing in bridging complex AI logic with intuitive design.
