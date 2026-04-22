@@ -11,7 +11,7 @@
 
   <br/>
   
-  ### *“Merging Artificial Intelligence with Human-Centered Design”*
+  ### *“The best way to predict the future is to invent it”*
   
   ---
 </div>
