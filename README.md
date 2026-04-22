@@ -31,7 +31,6 @@
 ### 👩‍💻 About Me
 I am a **Master’s candidate in Computer Science at Taif University**, and an award-winning UI/UX designer. My academic path is defined by a commitment to excellence, having graduated as the **top student university-wide** with a perfect GPA. 
 
-Currently, I am focusing my research on the intersection of **Artificial Intelligence** and human-centered design. I aim to leverage my 8+ years of professional background to develop advanced Deep Learning architectures that are both technically sophisticated and intuitively accessible.
 ---
 
 ### 🛠️ Technical Ecosystem
