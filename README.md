@@ -14,19 +14,17 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 **Academic Excellence:** Ranked **1st University-Wide** at Taif University (**4.00/4.00 GPA**).
-- 🎨 **UX Mastery:** 3rd Place Winner in *Portfolio Masters* — specialized in bridging AI logic with intuitive design.
-- 👩‍🏫 **Professional Experience:** 8+ years in education, currently pivoting into advanced Computer Science research.
+### 🚀 Quick Glance
+- 🔭 **Current Focus:** Comparative Study of **10 Hybrid Models** (CNN, RNN, GRU).
+- 🏆 **Top Achievement:** Ranked **1st University-Wide** (GPA 4.00/4.00).
+- 🎨 **Expertise:** Bridging **Artificial Intelligence** with **Intuitive Design**.
 
+---
 <br />
+### 👩‍💻 About Me
+I am a Computer Science researcher and an award-winning UI/UX designer with a passion for building intelligent, human-centered digital solutions. With a background as an **educator for over 8 years**, I am currently channeling my expertise into advanced AI research at **Umm Al-Qura University**. 
 
-### 📚 Master's Thesis & Current Focus
-- 🔬 **Research Title:** Comparative study of **10 Hybrid Neural Network Models** (CNN, RNN, GRU, etc.).
-- 🧪 **The Goal:** Expanding to 10 specialized hybrid models for state-of-the-art performance.
-- 🧠 **Deep Learning:** Focused on **Sleep Stage Classification** using BiLSTM architectures.
-- 🖼️ **Computer Vision:** Fine-tuning Artificial Neural Networks for medical and expressive visual analysis.
-
+My work focuses on the intersection of deep learning and user experience—ensuring that complex neural architectures are not only powerful but also accessible and intuitive.
 <br />
 
 ### 🛠️ Technical Ecosystem
