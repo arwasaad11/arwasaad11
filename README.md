@@ -4,7 +4,7 @@
     <strong>"The best way to predict the future is to invent it."</strong> — <i>Alan Kay</i>
   </p>
 
-  <a href="https://www.linkedin.com/in/arwa-alsawat">
+ <a href="https://www.linkedin.com/in/arwa-alsawat-258837286/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.behance.net/arwaalsawat">
@@ -37,13 +37,6 @@ I am a **Master’s candidate in Computer Science at Taif University**, and an a
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,figma,ai,ps,html,cisco&perline=10" />
 </div>
-
----
-
-### 📂 Featured Research & Projects
-- 🧠 **Sleep Stage Classification:** Comparing ML vs DL (BiLSTM) for health-tech solutions.
-- 🖼️ **Deep Learning for Vision:** Fine-tuned ANN models for image and text processing.
-- 🔐 **WATHEEQ Platform:** Secure authentication system development & leadership.
 
 ---
 
